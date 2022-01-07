@@ -1,0 +1,27 @@
+{
+    "groupName": "Test Suites",
+    "testSuiteName": "button1",
+    "testCaseInfo": [
+        {
+            "testcaseName": "button1.js",
+            "selectedDataset": "dataset",
+            "appName": "demo1"
+        },
+        {
+            "testcaseName": "button2.js",
+            "selectedDataset": "dataset",
+            "appName": "demo1"
+        },
+        {
+            "testcaseName": "button3.js",
+            "selectedDataset": "dataset",
+            "appName": "demo1"
+        }
+    ],
+    "appName": "demo1",
+    "usedBy": {
+        "demo1": [
+            "dummy.js"
+        ]
+    }
+}

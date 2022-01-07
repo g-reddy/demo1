@@ -1,0 +1,8 @@
+{
+  "filename": "demo1.zip",
+  "channels": "responsive_web",
+  "upgradable": false,
+  "displayname": "demo1",
+  "description": "Binary for demo1",
+  "version": "1.0.0"
+}
