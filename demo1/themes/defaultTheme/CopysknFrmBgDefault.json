@@ -1,0 +1,32 @@
+{
+    "background_color": "ffffff",
+    "bg_type": "one",
+    "border_color": "ffffffff",
+    "desktopweb": {
+        "background_color": {
+            "angle": 180,
+            "colors": [
+                "003e75ff",
+                "0e4a7fff",
+                "1e588bff"
+            ],
+            "cs": [
+                0,
+                48,
+                97
+            ],
+            "gradientType": "toBottom",
+            "gt": "linear"
+        },
+        "background_style": "linear",
+        "bg_type": "ms_gradient",
+        "bottom_left_border_color": "ffffffff",
+        "bottom_right_border_color": "ffffffff",
+        "isForked": true,
+        "top_left_border_color": "ffffffff",
+        "top_right_border_color": "ffffffff"
+    },
+    "isDefaultSkin": false,
+    "kuid": "s16a2c9cf8ee4c559782a4f4c07826a7",
+    "wType": "Form"
+}
